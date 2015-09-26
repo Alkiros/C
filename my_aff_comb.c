@@ -6,9 +6,6 @@ int     main()
   int var2;
   int var3;
   var1 = 0;
-  var2 = 0;
-  var3 = 0;
-
 
   while(var1 <= 7)
     {
@@ -29,7 +26,6 @@ int     main()
         }
         var1++;
     }
-
  }
 
 /** By tran_- **/
